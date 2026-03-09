@@ -11,8 +11,6 @@ I enjoy exploring new technologies, solving challenging problems, and continuous
 
 - 💻 Passionate about **Software Development and Machine Learning**
 - 📚 Continuously learning new technologies and improving my skills
-- 🔧 Focused on writing **clean, efficient, and maintainable code**
-- 🌱 Interested in **AI, Data Science, and Full Stack Development**
 
 ---
 
